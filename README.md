@@ -92,10 +92,36 @@ I entered my name, postion, and professional picture.
 
 ![image](https://github.com/jonathansantacruz3/Set_up_MX_records/assets/151465848/f30132d0-f209-43c8-ae4a-5ecfe36bac48)
 
-The next step is to configure email clients to Hostinger web and connect it to email hosting. In Hostinger Emails tab, I opened the email settings and take note of the incoming and outgoing settings to apply them to the email client of your choice. 
+The next step is to configure email clients to Hostinger web and connect it to email hosting This way I will be able to manage all my emails under one roof. In Hostinger Emails tab, I opened the email settings and take note of the incoming and outgoing settings to apply them to the email client of your choice. 
 
 ![image](https://github.com/jonathansantacruz3/Set_up_MX_records/assets/151465848/253edab9-5847-48a4-8733-70bdea035782)
 
+![image](https://github.com/jonathansantacruz3/Set_up_MX_records/assets/151465848/142f5c27-c8a6-4711-a108-cff50fd5de26)
 
+![image](https://github.com/jonathansantacruz3/Set_up_MX_records/assets/151465848/d0aeca9d-7368-42c8-8c74-166a7130cc98)
 
+I want to use Gmail to manage my emails so after I log in to my account, on the top right corner I choose the gear icon for settings and then the "see all settings" button. Then I head over to the "Accounts and Import" tab. 
 
+![image](https://github.com/jonathansantacruz3/Set_up_MX_records/assets/151465848/f2ad06b0-045e-40ef-9310-c48dca206e8c)
+
+![image](https://github.com/jonathansantacruz3/Set_up_MX_records/assets/151465848/4993f054-6bdc-4976-9335-5af227c984eb)
+
+Under "send email as:" choose to "Add another email".
+
+![image](https://github.com/jonathansantacruz3/Set_up_MX_records/assets/151465848/d645ed60-1aeb-40b3-9904-458d05af2992)
+
+![image](https://github.com/jonathansantacruz3/Set_up_MX_records/assets/151465848/45292847-1266-4245-acf9-54606c35bbed)
+
+Enter the SMTP hostname settings along with my domain credentials and protocol desired. 
+
+![image](https://github.com/jonathansantacruz3/Set_up_MX_records/assets/151465848/3399e595-0761-4780-a3ff-2a9c089f390a)
+
+![image](https://github.com/jonathansantacruz3/Set_up_MX_records/assets/151465848/6f72abd4-62e5-489f-adc0-cbb924716302)
+
+It prompts me to verify my new configuration by logging on to my Gmail account and confirming. 
+
+![image](https://github.com/jonathansantacruz3/Set_up_MX_records/assets/151465848/d964cc7d-7584-4113-94bb-4f68f50c7cdd)
+
+![image](https://github.com/jonathansantacruz3/Set_up_MX_records/assets/151465848/abe1a2f5-6870-4728-b6d5-c8d9637e6c0b)
+
+Success! I am now able to manage my email from one inbox. 
