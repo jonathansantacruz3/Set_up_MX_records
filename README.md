@@ -112,7 +112,7 @@ Under "send email as:" choose to "Add another email".
 
 ![image](https://github.com/jonathansantacruz3/Set_up_MX_records/assets/151465848/45292847-1266-4245-acf9-54606c35bbed)
 
-Enter the SMTP hostname settings along with my domain credentials and protocol desired. 
+Enter the SMTP hostname settings along with my domain credentials and protocol desired. Make sure to include the full address for the username or you will get an authentication failed message (e.g. info@mydomain.com).
 
 ![image](https://github.com/jonathansantacruz3/Set_up_MX_records/assets/151465848/3399e595-0761-4780-a3ff-2a9c089f390a)
 
