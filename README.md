@@ -56,6 +56,5 @@ The next step is to delete any pre-existing mx records to avoid any conflicting 
 ![image](https://github.com/jonathansantacruz3/Set_up_MX_records/assets/151465848/b13a039f-8872-4f40-be80-33012a7db133)
 
  
-The name @ will associate all mail to that desired domain and the priority level is what server takes precedence. The lower the number the higher the priority. They can both be set to the same number to distribute the load between an equal number of servers. TTL stands for time to live, and it is how long the DNS cache will store the data. The time is set to seconds so 14400 is set to 4 hours. 
-The configuration can take up to 24 hours to process and validate.
+The name @ will associate all mail to that desired domain and the priority level is what server takes precedence regarding email transmissions. The lower the number the higher the priority. They can both be set to the same number to distribute the load between an equal number of servers. TTL stands for time to live, and it is how long the DNS cache will store the data. The time is set to seconds so 14400 is set to 4 hours. Once the configuration is complete it can take up to 24 hours to process and validate.
 
