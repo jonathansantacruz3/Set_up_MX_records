@@ -1,7 +1,7 @@
 ![set up mx records](https://github.com/jonathansantacruz3/Set_up_MX_records/assets/151465848/35845204-6ef2-4d1a-aa7d-87d014b6dcd5)
 
 
-<h1>Set up MX records on Hostinger</h1>
+<h1>Set up MX records and Create a Professional Email Account on Hostinger</h1>
 This tutorial outlines the proper configurations of MX records on the Titan email service through the Hostinger. MX (Mail Exchange) records are part of the Domain Name System (DNS). They are text files that route e-mails to the appropriate mail servers used to handle incoming mail for a domain or its user. They specify which mail servers and protocols are used for mail reception, which are prioritized if there are more than one, and the TTL (time to live) for the record in the DNS cache. In other words, MX records are crucial for correct inbox routing and reliable email communication.<br />
 
 
