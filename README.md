@@ -35,19 +35,25 @@ Once logged in, navigate to the “Emails” tab in Hostinger. I use the Titan e
 
 To locate the name servers, I will head over to the “Domains” tab, and under my desired domain I choose the "Manage" button. 
  
+![image](https://github.com/jonathansantacruz3/Set_up_MX_records/assets/151465848/11cf9f1a-8ab2-413a-8a69-2f9eb17f0765)
  
  
 Then on the left panel choose the DNS/name server’s option. 
  
+![image](https://github.com/jonathansantacruz3/Set_up_MX_records/assets/151465848/bcbde9f7-1391-486b-9b9a-35da59276a54)
  
  
 My domain uses Hostinger's DNS servers to handle e-mail communication. Therefore, I can make the configurations within the Hostinger platform. If they were non-Hostinger servers, those servers would handle the MX record settings. 
  
+![image](https://github.com/jonathansantacruz3/Set_up_MX_records/assets/151465848/b2943d8e-b617-400a-8bec-9d5b3574f73e)
  
  
 The next step is to delete any pre-existing mx records to avoid any conflicting issues with the new records down the road. Then enter the following values into the fields for the appropriate mx and txt records. A txt (text) record is another method to prove domain ownership by adding a human-readable note associated with the domain and preventing domain spoofing. 
 
  
+![image](https://github.com/jonathansantacruz3/Set_up_MX_records/assets/151465848/1fb13d8c-9c77-428a-b8f5-79187258f938)
+
+![image](https://github.com/jonathansantacruz3/Set_up_MX_records/assets/151465848/b13a039f-8872-4f40-be80-33012a7db133)
 
  
 The name @ will associate all mail to that desired domain and the priority level is what server takes precedence. The lower the number the higher the priority. They can both be set to the same number to distribute the load between an equal number of servers. TTL stands for time to live, and it is how long the DNS cache will store the data. The time is set to seconds so 14400 is set to 4 hours. 
