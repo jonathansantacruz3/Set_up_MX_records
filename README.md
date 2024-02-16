@@ -58,3 +58,44 @@ The next step is to delete any pre-existing mx records to avoid any conflicting 
  
 The name @ will associate all mail to that desired domain and the priority level is what server takes precedence regarding email transmissions. The lower the number the higher the priority. They can both be set to the same number to distribute the load between an equal number of servers. TTL stands for time to live, and it is how long the DNS cache will store the data. The time is set to seconds so 14400 is set to 4 hours. Once the configuration is complete it can take up to 24 hours to process and validate.
 
+<h3>Create An Email Account For Professional Use</h3>
+
+Now that I have my mx record set up for my domain, it is time to create a professional email account tied to that domain. In Hostinger, head over to the "Emails" tab and choose the option "Email Accounts" and then "Create New Email Account" to create one. 
+
+![image](https://github.com/jonathansantacruz3/Set_up_MX_records/assets/151465848/75a7b824-4cad-451e-a959-02899e98e4f8)
+
+![image](https://github.com/jonathansantacruz3/Set_up_MX_records/assets/151465848/9fcc606a-b0ef-47b0-8092-743969404fac)
+
+In this window i will enter my desired fields to create a password and set a backup email account for password recovery. 
+
+![image](https://github.com/jonathansantacruz3/Set_up_MX_records/assets/151465848/97d76729-ea84-4c79-b332-395a39dd92db)
+
+After submitting the information and successfully creating a new account I was presented this window. 
+
+![image](https://github.com/jonathansantacruz3/Set_up_MX_records/assets/151465848/b6ed67e4-d2ce-43e0-9d38-df754b1d27a2)
+
+I decided to configure my new email address to assign it a signature to add a touch of professionalism. I navigated to titan.email and entered my brand new credentials. 
+
+![image](https://github.com/jonathansantacruz3/Set_up_MX_records/assets/151465848/7f5c1867-caf6-4bde-9564-46e5facd6ecc)
+
+I am greeted with an option to customize my account by adding a profile picture and a name to display for recipients. You can choose to set it now or skip and do it later. I decided to skip the picture for now.  
+
+![image](https://github.com/jonathansantacruz3/Set_up_MX_records/assets/151465848/2b0bc3a6-4860-4be0-9832-53b292e4cdcf)
+
+I am then asked to import my Gmail contacts, but I skipped it. The next window asked me to add a professional signature. I clicked on the "Create custom signature". 
+
+![image](https://github.com/jonathansantacruz3/Set_up_MX_records/assets/151465848/75af06d1-7d36-427c-bea5-8792b823c7bd)
+
+![image](https://github.com/jonathansantacruz3/Set_up_MX_records/assets/151465848/a3742c67-1f64-4c04-9d06-a69b2c4e9a50)
+
+I entered my name, postion, and professional picture. 
+
+![image](https://github.com/jonathansantacruz3/Set_up_MX_records/assets/151465848/f30132d0-f209-43c8-ae4a-5ecfe36bac48)
+
+The next step is to configure email clients to Hostinger web and connect it to email hosting. In Hostinger Emails tab, I opened the email settings and take note of the incoming and outgoing settings to apply them to the email client of your choice. 
+
+![image](https://github.com/jonathansantacruz3/Set_up_MX_records/assets/151465848/253edab9-5847-48a4-8733-70bdea035782)
+
+
+
+
